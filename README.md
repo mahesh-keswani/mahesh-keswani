@@ -23,18 +23,18 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png"  /> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width=50 height=50/> </a> 
-  <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" width=50 height=50/> </a> 
-  <a href="https://www.scipy.org/" target="_blank"> <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy-logo-300.png" width=50 height=50 /> </a> 
-  <a href="https://www.djangoproject.com" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width=50 height=50 /> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width=50 height=50 /> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width=50 height=50 /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width=50 height=50 /> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width=50 height=50 /> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width=50 height=50 /> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width=50 height=50 /> </a> 
-     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width=50 height=50 /> </a> 
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" width=70 height=70 /> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width=70 height=70 /> </a> 
+  <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" width=70 height=70 /> </a> 
+  <a href="https://www.scipy.org/" target="_blank"> <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy-logo-300.png" width=70 height=70 /> </a> 
+  <a href="https://www.djangoproject.com" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width=70 height=70 /> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width=70 height=70 /> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width=70 height=70 /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width=70 height=70 /> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width=70 height=70 /> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width=70 height=70 /> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width=70 height=70 /> </a> 
+     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width=70 height=70 /> </a> 
 </p>
 
 <br/>
