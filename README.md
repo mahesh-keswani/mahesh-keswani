@@ -23,7 +23,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" width=50 height=50 /> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png"  /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width=50 height=50/> </a> 
   <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" width=50 height=50/> </a> 
   <a href="https://www.scipy.org/" target="_blank"> <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy-logo-300.png" width=50 height=50 /> </a> 
